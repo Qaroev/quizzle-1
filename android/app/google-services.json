@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "842341480924",
+    "project_id": "quizzle-1cdd1",
+    "storage_bucket": "quizzle-1cdd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842341480924:android:cbbdc9bf1d832ff23e3719",
+        "android_client_info": {
+          "package_name": "com.quizzledemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842341480924-l6gbi0iv2si8seqfa8jkv3hdd66ilpbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quizzledemo",
+            "certificate_hash": "f8811219e6e8c2d2816848715c7ca06f9ba0794c"
+          }
+        },
+        {
+          "client_id": "842341480924-s6l8sk1pliik68fh2dn17fnn87celepj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quizzledemo",
+            "certificate_hash": "48e01f842cd5f54f4292a8d7eb7d922f27f3a763"
+          }
+        },
+        {
+          "client_id": "842341480924-k83k3t17s0u88bj11rv963ta7meul9kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ_sDK_ek7uSF58bApLzI7rKZ-_wq6jeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842341480924-k83k3t17s0u88bj11rv963ta7meul9kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842341480924-sbjgd204tao6tgkrgp6l7725t0untupd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.codefox.quizzle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
